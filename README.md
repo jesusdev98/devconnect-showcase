@@ -58,9 +58,9 @@ _(Diagram coming soon)_
 DevConnect was developed as a collaborative project.
 
 - 👤 [Jesús Martínez](https://github.com/jesusdev98)
-- 👤 Carolina Vilar Rodenas
-- 👤 Carlos Bastián Lérida
-- 👤 Miguel Ángel García Pérez
+- 👤 [Carolina Vilar Rodenas](https://github.com/Akashae98)
+- 👤 [Carlos Bastián Lérida](https://github.com/CarlosJavierBastianLerida)
+- 👤 [Miguel Ángel García Pérez](https://github.com/magarciaperez)
 
 ---
 
