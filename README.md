@@ -53,13 +53,9 @@ _(Diagram coming soon)_
 
 ---
 
-## 💼 My Role
+## 🤝 Team Project
 
-- Designed full architecture
-- Built frontend and backend
-- Implemented authentication system
-- Developed social features
-- Integrated full testing strategy
+DevConnect was developed as a collaborative project.
 
 ---
 
@@ -67,4 +63,4 @@ _(Diagram coming soon)_
 
 - Clean architecture
 - Scalability
-- Testing-driven development
+- Testing-driven developmentTesting-driven development
